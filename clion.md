@@ -1,3 +1,3 @@
-# 使用CLion
+# 使用CLion+SEGGER Ozone
 
 TODO
